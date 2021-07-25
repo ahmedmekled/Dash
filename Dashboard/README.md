@@ -1,7 +1,7 @@
 ## This is the Dashboard, built with Dash/Plotly
 
 **In order for you to run it:**
-1. Clone this Repo
+1. Clone this Repo (You can find everything related to the Dashboard inside the vinv folder).
 2. Install the needed libraries:
     - Numpy
     - Plotly

@@ -11,9 +11,9 @@
 
 ## Findings
 
-Regarding the findings and the analysis of the data, we can conclude the following:  
+**Regarding the findings and the analysis of the data, we can conclude the following:**  
 
-**For example, for Operator A:**
+For example, for Operator A:
 - 
 -
 ## Here are some Screenshots from the Dashboard

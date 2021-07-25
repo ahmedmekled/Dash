@@ -10,7 +10,7 @@
 3. Add the data to the folder **Assets**, or change the file path from the code to match yours
 
 ## Findings
-Regarding the findings and the analysis of the data, we can conclude the following:
+Regarding the findings and the analysis of the data, we can conclude the following:  
 **For example, for Operator A:**
 - 
 -
